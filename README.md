@@ -4,6 +4,12 @@
 
 当然，如果您要看国内人写的书，推荐先去豆瓣等其他的地方了解一下评价如何再考虑。。。
 
+## 虚幻引擎C++终极开发手册（Unreal Engine C++ the Ultimate Developer's Handbook）
+
+![img](https://pic1.zhimg.com/80/v2-8c1661596e4e73b59bad5650068ec57f_720w.jpeg)
+
+
+
 ## 精通虚幻引擎（Mastering Unreal Engine）
 
 ![img](https://picx.zhimg.com/80/v2-dde3448772bffe11f2114a41d3acab00_720w.jpeg?source=d16d100b)
